@@ -1,0 +1,9 @@
+DS_Store
+.gitignore
+README.md
+ciudades.md
+heroes.md
+historia/
+misiones-completadas.md
+misiones.md
+readme2.md
